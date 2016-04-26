@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-ruby "2.2.4"
+ruby "2.1.1"
 
 gem 'cucumber'
 gem 'watir-webdriver'
